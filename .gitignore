@@ -1,0 +1,5 @@
+.idea
+HillaryEmails
+*.pkl
+__pycache__
+.DS_Store
